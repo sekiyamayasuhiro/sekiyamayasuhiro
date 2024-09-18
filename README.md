@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hello World 👋! I'm Yasuhiro (Yasu) Sekiyama (He/Him).
+
+I'm a full-stack software developer passionate about problem-solving, building scalable, user-focused applications, and exploring new technologies. My journey started in July 2023 at App Academy, where I graduated in July 2024.
+
+### I’m also passionate about:
+
+-   🌍 Traveling
+-   🍲 Food
+-   🏀 NBA
+-   🏈 NFL
+-   🎮 E-sports
+
+---
 
 <!--
 **sekiyamayasuhiro/sekiyamayasuhiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
