@@ -61,6 +61,12 @@ Full-stack clone of Yelp with a search, filter, and Google Maps integration.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sekiyamayasuhiro&layout=compact&theme=dracula)
 
+## 📫 Contact Me
+
+-   📧 **E-mail**: [sekiyamayasuhiro@gmail.com](mailto:sekiyamayasuhiro@gmail.com)
+-   💼 **LinkedIn**: [Yasuhiro Sekiyama](http://www.linkedin.com/in/yasuhiro-sekiyama-86474a329)
+-   🌐 **Portfolio**: Coming soon!
+
 <!--
 **sekiyamayasuhiro/sekiyamayasuhiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
