@@ -51,6 +51,16 @@ Full-stack app designed to supplement and enhance the experience of users partic
 Full-stack clone of Yelp with a search, filter, and Google Maps integration.
 [GitHub Repo](https://github.com/sekiyamayasuhiro/yelper-project)
 
+## 📈 GitHub Stats
+
+### Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sekiyamayasuhiro&show_icons=true&theme=dracula)
+
+### Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sekiyamayasuhiro&layout=compact&theme=dracula)
+
 <!--
 **sekiyamayasuhiro/sekiyamayasuhiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
