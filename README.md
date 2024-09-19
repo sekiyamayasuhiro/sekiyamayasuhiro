@@ -39,6 +39,18 @@ I'm a full-stack software developer passionate about problem-solving, building s
 ![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-000?style=flat&logo=google-maps)
 ![Render](https://img.shields.io/badge/-Render-000?style=flat&logo=render)
 
+## 💻 Projects
+
+### [Fantasy Basketball Notebook](https://my-fantasy-notebook.onrender.com)
+
+Full-stack app designed to supplement and enhance the experience of users participating in fantasy basketball.
+[GitHub Repo](https://github.com/sekiyamayasuhiro/capstone-project)
+
+### [Yelper](https://little-trio-yumspot-project.onrender.com)
+
+Full-stack clone of Yelp with a search, filter, and Google Maps integration.
+[GitHub Repo](https://github.com/sekiyamayasuhiro/yelper-project)
+
 <!--
 **sekiyamayasuhiro/sekiyamayasuhiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
